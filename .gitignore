@@ -2,7 +2,8 @@
 /dist
 /node_modules
 /mongo
-
+.git
+.vscode
 .env
 # Logs
 logs
